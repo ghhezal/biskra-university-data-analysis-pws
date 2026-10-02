@@ -18,7 +18,8 @@ biskra-university-data-analysis-pws/
 │   └── ...
 │
 ├── requirements.txt
-└── README.md```
+└── README.md
+```
 
 ## Practical works
 
