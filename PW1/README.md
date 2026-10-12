@@ -4,8 +4,7 @@ This practical work covers the basic steps of data analysis in Python using a sm
 
 ## What this PW covers
 
-The dataset contains information about 10 students, including age, gender, study hours, grades, and absences. :chatgpt-content-reference{index="0"}
-
+The dataset contains information about 10 students, including age, gender, study hours, grades, and absences.
 The work includes:
 
 - inspecting the dataset with `head()`, `tail()`, `shape`, and `info()`
@@ -17,7 +16,7 @@ The work includes:
 - checking and removing duplicated rows
 - analyzing the relationship between study hours and grades with a scatter plot
 - calculating and visualizing correlations
-- comparing average grades, study hours, and absences by gender :chatgpt-content-reference{index="1"} :chatgpt-content-reference{index="2"} :chatgpt-content-reference{index="3"} :chatgpt-content-reference{index="4"}
+- comparing average grades, study hours, and absences by gender
 
 ## What I found
 
@@ -32,7 +31,7 @@ The work includes:
 
 The exercise also introduces some basic cleaning steps.
 
-A missing grade is added manually using `np.nan`, then replaced with the mean grade. Duplicate rows are checked with `duplicated()` and can be removed using `drop_duplicates()`. :chatgpt-content-reference{index="5"}
+A missing grade is added manually using `np.nan`, then replaced with the mean grade. Duplicate rows are checked with `duplicated()` and can be removed using `drop_duplicates()`.
 
 ## Visualizations
 
